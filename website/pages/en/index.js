@@ -7,7 +7,7 @@
 
 const React = require('react');
 
-const CompLibrary = require('../core/CompLibrary.js');
+const CompLibrary = require('../../core/CompLibrary.js');
 
 const MarkdownBlock = CompLibrary.MarkdownBlock; /* Used to read markdown */
 const Container = CompLibrary.Container;
@@ -81,7 +81,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href={docUrl('index.html', language)}>Read the documentation</Button>
+            <Button href={docUrl('about/what-is-noi.html', language)}>Read the documentation</Button>
           </PromoSection>
         </div>
       </SplashContainer>

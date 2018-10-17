@@ -1,4 +1,14 @@
 {
-    "docs": {
-    }
+  "docs": {
+    "About": [
+      "about/what-is-noi",
+      "about/technical-specs",
+      "about/getting-started"
+    ],
+    "Project Documentation": [
+      "project-docs/overview",
+      "project-docs/hardware",
+      "project-docs/top-bot-comm"
+    ]
   }
+}

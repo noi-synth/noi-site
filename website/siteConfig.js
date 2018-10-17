@@ -10,12 +10,12 @@ const siteConfig = {
   projectName: 'noi-site',
   organizationName: 'noi-synth',
   headerLinks: [
-    { doc: 'index', label: 'Docs' },
+    { doc: 'about/what-is-noi', label: 'Docs' },
   ],
   /* Colors for website */
   colors: {
-    primaryColor: '#000000',
-    secondaryColor: '#333333',
+    primaryColor: '#333',
+    secondaryColor: '#000',
   },
   highlight: {
     theme: 'default',
