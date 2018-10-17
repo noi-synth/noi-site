@@ -12,15 +12,7 @@ NOI is powered by a Raspberry Pi as the core of the synthesizer, Arduino for con
 
 ## Overview
 
-The whole thing is split into two parts — *TOPNOI* and *BOTNOI*. Those parts are then connected and screwed together, the assembly should be very easy. Another small benefit is that two people can work on those parts simulteanously (since we're two people working on it).
-
-### TOPNOI
-
-*TOPNOI* is a user interfacing part. It consists of buttons, displays and rotary encoders and the whole thing is controlled by Arduino.
-
-### BOTNOI
-
-*BOTNOI* is the core of the device. Its main part is the Raspberry Pi, other parts are power source (battery), I/O ports and so on.
+The whole thing is split into three parts: *CORE*, *USER* and *KEYBOARD*. Those parts are then connected and screwed together, the assembly should be very easy.
 
 ## Components choice
 

@@ -6,9 +6,16 @@
       "about/getting-started"
     ],
     "Project Documentation": [
-      "project-docs/overview",
-      "project-docs/hardware",
-      "project-docs/top-bot-comm"
+      "project-doc/overview",
+      "project-doc/parts",
+      "project-doc/hardware"
+    ],
+    "CORE": [
+    ],
+    "USER": [
+      "user/core-comm"
+    ],
+    "KEYBOARD": [
     ]
   }
 }
