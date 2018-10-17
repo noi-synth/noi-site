@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g>
+        <g transform="matrix(0.972736,0,0,0.77556,-29.3277,-12.9771)">
+            <rect x="43" y="55" width="74" height="74" style="fill:none;stroke:black;stroke-width:1.14px;"/>
+        </g>
+        <g transform="matrix(0.972736,0,0,0.77556,42.6548,-12.9771)">
+            <rect x="43" y="55" width="74" height="74" style="fill:none;stroke:black;stroke-width:1.14px;"/>
+        </g>
+        <g transform="matrix(0.972736,0,0,0.77556,114.637,-12.9771)">
+            <rect x="43" y="55" width="74" height="74" style="fill:none;stroke:black;stroke-width:1.14px;"/>
+        </g>
+        <g transform="matrix(1.94547,0,0,0.77556,495.95,-12.9771)">
+            <rect x="43" y="55" width="74" height="74" style="fill:none;stroke:black;stroke-width:0.68px;"/>
+        </g>
+        <g transform="matrix(3.89094,0,0,0.77556,556.259,-12.9771)">
+            <rect x="43" y="55" width="74" height="74" style="fill:none;stroke:black;stroke-width:0.36px;"/>
+        </g>
+        <g transform="matrix(2.23466,0,0,0.77556,132.357,-12.9771)">
+            <path d="M113.953,55L43,55L43,129L113.953,129L117,113.501L114.388,95.634L117,74.008L113.953,55Z" style="fill:none;stroke:black;stroke-width:0.6px;"/>
+        </g>
+        <g transform="matrix(1.7483,0,0,0.77556,375.055,-12.9771)">
+            <path d="M117,55L43,55L45.782,72.502L43,92.685L45.782,110.417L43,129L117,129L117,55Z" style="fill:none;stroke:black;stroke-width:0.74px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-22,6.23016)">
+        <text x="56.871px" y="95.877px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">1 byte</text>
+    </g>
+    <g transform="matrix(1,0,0,1,49.9825,6.23016)">
+        <text x="56.871px" y="95.877px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">1 byte</text>
+    </g>
+    <g transform="matrix(1,0,0,1,121.965,6.23016)">
+        <text x="56.871px" y="95.877px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">1 byte</text>
+    </g>
+    <g transform="matrix(1,0,0,1,193.947,6.23016)">
+        <text x="181.173px" y="95.877px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">0 - 255 bytes</text>
+    </g>
+    <g transform="matrix(1,0,0,1,545.105,6.23016)">
+        <text x="90.362px" y="95.877px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">2 bytes</text>
+    </g>
+    <g transform="matrix(1,0,0,1,689.07,6.23016)">
+        <text x="162.344px" y="95.877px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10px;">4 bytes</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-22,3.13344)">
+        <text x="43.044px" y="60.867px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:13px;">HEADER</text>
+    </g>
+    <g transform="matrix(1,0,0,1,49.9825,3.13344)">
+        <text x="37.985px" y="60.867px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:13px;">MESSAGE</text>
+    </g>
+    <g transform="matrix(1,0,0,1,581.096,2.1607)">
+        <text x="34.849px" y="60.867px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:13px;fill-opacity:0.452843;">RESER<tspan x="79.403px 88.074px " y="60.867px 60.867px ">VE</tspan>D</text>
+    </g>
+    <g transform="matrix(1,0,0,1,777.589,2.1607)">
+        <text x="52.39px" y="60.867px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:13px;">CHECKSUM</text>
+    </g>
+    <g transform="matrix(1,0,0,1,217.293,3.13344)">
+        <text x="47.6px" y="60.867px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:13px;">P<tspan x="55.306px 64.694px " y="60.867px 60.867px ">AR</tspan>AMETERS</text>
+    </g>
+    <g transform="matrix(1,0,0,1,431.295,2.1607)">
+        <text x="39.818px" y="60.867px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:13px;">P<tspan x="47.524px 56.913px " y="60.867px 60.867px ">AR</tspan>AMETERS</text>
+    </g>
+    <g transform="matrix(1,0,0,1,356.881,2.1607)">
+        <text x="59.723px" y="60.867px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:13px;">...</text>
+    </g>
+    <g transform="matrix(1,0,0,1,121.965,3.13344)">
+        <g>
+            <text x="42.806px" y="54.154px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:13px;">P<tspan x="50.512px 59.9px " y="54.154px 54.154px ">AR</tspan>AMS</text>
+            <text x="43.771px" y="67.579px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:13px;">LENGTH</text>
+        </g>
+    </g>
+    <text x="12.5px" y="22.625px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;">0</text>
+    <g transform="matrix(1,0,0,1,71.9825,0)">
+        <text x="12.5px" y="22.625px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;">1</text>
+    </g>
+    <g transform="matrix(1,0,0,1,143.965,0)">
+        <text x="12.5px" y="22.625px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;">2</text>
+    </g>
+    <g transform="matrix(1,0,0,1,215.947,0)">
+        <text x="12.5px" y="22.625px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;">3</text>
+    </g>
+    <g transform="matrix(1,0,0,1,567.105,0)">
+        <text x="12.5px" y="22.625px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;">3+PL</text>
+    </g>
+    <g transform="matrix(1,0,0,1,711.07,0)">
+        <text x="12.5px" y="22.625px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8px;">3+PL+2</text>
+    </g>
+</svg>

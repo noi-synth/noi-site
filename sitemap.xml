@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://noi-synth.com/index</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/en/index" /> </url>
+<url> <loc>https://noi-synth.com/docs/about/getting-started</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/about/getting-started" /> </url>
+<url> <loc>https://noi-synth.com/docs/about/technical-specs</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/about/technical-specs" /> </url>
+<url> <loc>https://noi-synth.com/docs/about/what-is-noi</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/about/what-is-noi" /> </url>
+<url> <loc>https://noi-synth.com/docs/project-docs/hardware</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-docs/hardware" /> </url>
+<url> <loc>https://noi-synth.com/docs/project-docs/overview</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-docs/overview" /> </url>
+<url> <loc>https://noi-synth.com/docs/project-docs/top-bot-comm</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-docs/top-bot-comm" /> </url>
+</urlset>
