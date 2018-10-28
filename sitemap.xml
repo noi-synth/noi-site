@@ -4,7 +4,9 @@
 <url> <loc>https://noi-synth.com/docs/about/getting-started</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/about/getting-started" /> </url>
 <url> <loc>https://noi-synth.com/docs/about/technical-specs</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/about/technical-specs" /> </url>
 <url> <loc>https://noi-synth.com/docs/about/what-is-noi</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/about/what-is-noi" /> </url>
-<url> <loc>https://noi-synth.com/docs/project-docs/hardware</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-docs/hardware" /> </url>
-<url> <loc>https://noi-synth.com/docs/project-docs/overview</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-docs/overview" /> </url>
-<url> <loc>https://noi-synth.com/docs/project-docs/top-bot-comm</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-docs/top-bot-comm" /> </url>
+<url> <loc>https://noi-synth.com/docs/project-doc/feature-list</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-doc/feature-list" /> </url>
+<url> <loc>https://noi-synth.com/docs/project-doc/hardware</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-doc/hardware" /> </url>
+<url> <loc>https://noi-synth.com/docs/project-doc/overview</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-doc/overview" /> </url>
+<url> <loc>https://noi-synth.com/docs/project-doc/parts</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/project-doc/parts" /> </url>
+<url> <loc>https://noi-synth.com/docs/user/core-comm</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://noi-synth.com/docs/user/core-comm" /> </url>
 </urlset>

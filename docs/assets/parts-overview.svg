@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3508 2481" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-270.063,1571.67)">
+        <text x="423px" y="799.609px" style="font-family:'Helvetica-Light', 'Helvetica', sans-serif;font-weight:300;font-size:50px;">NOI V1 Parts Overview</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1937.22,1571.67)">
+        <g>
+            <text x="874.761px" y="773.613px" style="font-family:'Helvetica';font-size:29.167px;">28 Oct 2018, version 1</text>
+            <text x="660.384px" y="810.527px" style="font-family:'Helvetica';font-size:29.167px;">Marian Hlavac &lt;hlavac95@gmail.com&gt;</text>
+        </g>
+    </g>
+    <g transform="matrix(1.12328,0,0,1.12328,2617.28,1896.39)">
+        <path d="M540,380L594,434L594,380L648,434" style="fill:none;stroke:rgb(210,210,210);stroke-opacity:0.321569;stroke-width:9.07px;"/>
+        <g>
+            <path d="M487,434L487,380L540,433L540,380" style="fill:none;stroke:rgb(210,210,210);stroke-width:9.07px;"/>
+            <g transform="matrix(1,0,0,1,80.5,0.5)">
+                <circle cx="513.5" cy="406.5" r="26.5" style="fill:none;stroke:rgb(210,210,210);stroke-width:9.07px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,42,-0.5)">
+                <path d="M606,380L606,434" style="fill:none;stroke:rgb(210,210,210);stroke-width:9.07px;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.591211,90.6279,-50.4956)">
+        <path d="M3365,382.36C3365,365.604 3356.57,352 3346.18,352L141.82,352C131.433,352 123,365.604 123,382.36L123,1333.64C123,1350.4 131.433,1364 141.82,1364L3346.18,1364C3356.57,1364 3365,1350.4 3365,1333.64L3365,382.36Z" style="fill:rgb(230,230,230);stroke:rgb(204,204,204);stroke-width:5.25px;"/>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.591211,90.6279,742.406)">
+        <path d="M3365,382.36C3365,365.604 3356.57,352 3346.18,352L141.82,352C131.433,352 123,365.604 123,382.36L123,1333.64C123,1350.4 131.433,1364 141.82,1364L3346.18,1364C3356.57,1364 3365,1350.4 3365,1333.64L3365,382.36Z" style="fill:rgb(230,230,230);stroke:rgb(204,204,204);stroke-width:5.25px;"/>
+    </g>
+    <g transform="matrix(0.388887,0,0,0.316977,1991.33,1631.84)">
+        <path d="M3365,382.36C3365,365.604 3353.91,352 3340.25,352L147.746,352C134.088,352 123,365.604 123,382.36L123,1333.64C123,1350.4 134.088,1364 147.746,1364L3340.25,1364C3353.91,1364 3365,1350.4 3365,1333.64L3365,382.36Z" style="fill:rgb(230,230,230);stroke:rgb(204,204,204);stroke-width:11.75px;"/>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,81.1507,-167.612)">
+        <g transform="matrix(0.845081,0,0,0.845081,734.256,-321.263)">
+            <rect x="589" y="905" width="497" height="246" style="fill:rgb(38,38,38);stroke:black;stroke-width:5.17px;"/>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,-59.7675,-21.5169)">
+            <text x="1246.76px" y="555.561px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">128x64 OLED screen</text>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,81.1507,-167.612)">
+        <g transform="matrix(0.845081,0,0,0.522164,1291.53,10.6959)">
+            <rect x="589" y="905" width="497" height="246" style="fill:rgb(38,38,38);stroke:black;stroke-width:6.22px;"/>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,-86.8023,-23.4438)">
+            <text x="1804.04px" y="558.003px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">128x32 OLED screen</text>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,81.1507,-167.612)">
+        <g transform="matrix(0.845081,0,0,0.522164,1848.81,10.6959)">
+            <rect x="589" y="905" width="497" height="246" style="fill:rgb(38,38,38);stroke:black;stroke-width:6.22px;"/>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,470.475,-23.4438)">
+            <text x="1804.04px" y="558.003px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">128x32 OLED screen</text>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,81.1507,-167.612)">
+        <g transform="matrix(0.845081,0,0,0.845081,342.983,10.0088)">
+            <g transform="matrix(1,0,0,1,680.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,879.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1078.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1277.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1476.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1675.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1874.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,2073.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,2272.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,2471.5,-12)">
+                <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:5.17px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,-86.8023,312.898)">
+            <text x="1896.88px" y="558.003px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(38,38,38);">UI buttons</text>
+        </g>
+    </g>
+    <g transform="matrix(0.780796,0,0,0.780796,1616.51,217.224)">
+        <g transform="matrix(0.468492,0,0,0.468492,968.679,1641.02)">
+            <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:11.39px;"/>
+        </g>
+        <g transform="matrix(0.468492,0,0,0.468492,1061.91,1641.02)">
+            <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:11.39px;"/>
+        </g>
+        <g transform="matrix(0.468492,0,0,0.468492,1248.37,1641.02)">
+            <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:11.39px;"/>
+        </g>
+        <g transform="matrix(0.468492,0,0,0.468492,1341.6,1641.02)">
+            <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:11.39px;"/>
+        </g>
+        <g transform="matrix(0.468492,0,0,0.468492,1434.83,1641.02)">
+            <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:11.39px;"/>
+        </g>
+        <g transform="matrix(0.468492,0,0,0.468492,1621.29,1641.02)">
+            <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:11.39px;"/>
+        </g>
+        <g transform="matrix(0.468492,0,0,0.468492,1714.52,1641.02)">
+            <path d="M523.5,897C523.5,876.027 506.473,859 485.5,859L409.5,859C388.527,859 371.5,876.027 371.5,897L371.5,973C371.5,993.973 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,993.973 523.5,973L523.5,897Z" style="fill:none;stroke:black;stroke-width:11.39px;"/>
+        </g>
+        <g transform="matrix(0.468492,0,0,1.02306,596.154,1269.77)">
+            <g transform="matrix(1,0,0,1,680.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,879.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1078.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1277.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1476.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1675.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,1874.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,2073.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,2272.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,2471.5,-12)">
+                <path d="M523.5,876.402C523.5,866.797 506.473,859 485.5,859L409.5,859C388.527,859 371.5,866.797 371.5,876.402L371.5,993.598C371.5,1003.2 388.527,1011 409.5,1011L485.5,1011C506.473,1011 523.5,1003.2 523.5,993.598L523.5,876.402Z" style="fill:none;stroke:black;stroke-width:6.71px;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,81.1507,-167.612)">
+        <g transform="matrix(0.845081,0,0,0.845081,-379.155,-511.406)">
+            <rect x="720" y="1174" width="248" height="398" style="fill:rgb(91,133,143);stroke:rgb(48,75,82);stroke-width:5.17px;"/>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,-11.124,-23.4438)">
+            <g>
+                <text x="257.385px" y="619.639px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">Arduino</text>
+                <text x="297.989px" y="657.139px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">Pro</text>
+                <text x="291.754px" y="694.639px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">Mini</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,81.1507,-167.612)">
+        <g transform="matrix(0.729223,0,0,0.845081,91.1152,-511.406)">
+            <rect x="720" y="1174" width="248" height="398" style="fill:rgb(65,112,54);stroke:rgb(48,75,41);stroke-width:5.54px;"/>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,-29.8911,-23.4438)">
+            <g>
+                <text x="673.218px" y="619.639px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">I2C</text>
+                <text x="620.09px" y="657.139px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">multiplex</text>
+                <text x="684.671px" y="694.639px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">er</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,81.1507,-167.612)">
+        <g transform="matrix(2.75342,0,0,0.845081,-1701,325.736)">
+            <path d="M968,1217.78C968,1193.62 961.979,1174 954.563,1174L733.437,1174C726.021,1174 720,1193.62 720,1217.78L720,1528.22C720,1552.38 726.021,1572 733.437,1572L954.563,1572C961.979,1572 968,1552.38 968,1528.22L968,1217.78Z" style="fill:rgb(65,112,54);stroke:rgb(48,75,41);stroke-width:2.15px;"/>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,-364.582,811.163)">
+            <text x="780.265px" y="657.139px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">Raspberry Pi Zero</text>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,81.1507,-167.612)">
+        <g transform="matrix(0.729223,0,0,0.845081,348.848,-511.406)">
+            <rect x="720" y="1174" width="248" height="398" style="fill:rgb(65,112,54);stroke:rgb(48,75,41);stroke-width:5.54px;"/>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,-42.3943,-23.4438)">
+            <g>
+                <text x="930.95px" y="637.18px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">I2C</text>
+                <text x="876.76px" y="674.68px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">expander</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(0.632037,0,0,0.63023,1635.89,1491.72)">
+        <g transform="matrix(0.729223,0,0,0.845081,348.848,-511.406)">
+            <rect x="720" y="1174" width="248" height="398" style="fill:rgb(65,112,54);stroke:rgb(48,75,41);stroke-width:8.37px;"/>
+        </g>
+        <g transform="matrix(1.58219,0,0,1.58672,-508.765,-283.536)">
+            <g>
+                <text x="901.862px" y="564.436px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">I2C</text>
+                <text x="876.849px" y="601.936px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">expan</text>
+                <text x="901.862px" y="639.436px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">der</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,75,-444.963)">
+        <text x="1609.48px" y="1276.14px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:50px;fill:rgb(102,102,102);">USER</text>
+    </g>
+    <g transform="matrix(1,0,0,1,75,347.939)">
+        <text x="1606.71px" y="1276.14px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:50px;fill:rgb(102,102,102);">CORE</text>
+    </g>
+    <g transform="matrix(1,0,0,1,1906.23,863.316)">
+        <text x="620.256px" y="1276.14px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:50px;fill:rgb(102,102,102);">KEYBOARD</text>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,81.1507,-167.612)">
+        <g transform="matrix(0.632812,0,0,0.56009,2913.97,169.347)">
+            <path d="M255,647.055C255,635.986 247.046,627 237.25,627L201.75,627C191.954,627 184,635.986 184,647.055L184,703.202C184,714.271 191.954,723.257 201.75,723.257L237.25,723.257C247.046,723.257 255,714.271 255,703.202L255,647.055Z" style="fill:rgb(230,230,230);stroke:black;stroke-width:7.31px;"/>
+            <rect x="153" y="687" width="128" height="36.257" style="fill:rgb(230,230,230);stroke:black;stroke-width:7.31px;"/>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,965.195,43.0012)">
+            <text x="1842.68px" y="558.003px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(38,38,38);">Status RGB LED</text>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,3027.23,-167.533)">
+        <path d="M229.303,994.165L229.303,1149.67" style="fill:none;stroke:rgb(38,38,38);stroke-width:4.37px;"/>
+        <path d="M206.468,1017L229.303,994.165L252.138,1017" style="fill:none;stroke:rgb(38,38,38);stroke-width:4.37px;"/>
+        <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,458.606,2143.83)">
+            <path d="M206.468,1017L229.303,994.165L252.138,1017" style="fill:none;stroke:rgb(38,38,38);stroke-width:4.37px;"/>
+        </g>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,3027.23,625.368)">
+        <path d="M229.303,994.165L229.303,1149.67" style="fill:none;stroke:rgb(38,38,38);stroke-width:4.37px;"/>
+        <path d="M206.468,1017L229.303,994.165L252.138,1017" style="fill:none;stroke:rgb(38,38,38);stroke-width:4.37px;"/>
+        <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,458.606,2143.83)">
+            <path d="M206.468,1017L229.303,994.165L252.138,1017" style="fill:none;stroke:rgb(38,38,38);stroke-width:4.37px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-159.261,-213.759)">
+        <g>
+            <text x="2824.31px" y="1064.74px" style="font-family:'Helvetica';font-size:37.5px;fill:rgb(38,38,38);">Connects with 6-pin header,</text>
+            <text x="2857.71px" y="1102.24px" style="font-family:'Helvetica';font-size:37.5px;fill:rgb(38,38,38);">communicates via serial</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-159.261,573.001)">
+        <text x="2752.42px" y="1083.49px" style="font-family:'Helvetica';font-size:37.5px;fill:rgb(38,38,38);">Connects and communicates via I2C</text>
+    </g>
+    <g transform="matrix(0.953732,0,0,0.953732,151.735,-187.773)">
+        <rect x="1158" y="1339" width="527" height="333.807" style="fill:rgb(153,153,153);stroke:rgb(38,38,38);stroke-width:4.37px;"/>
+        <path d="M1685,1428C1685,1428 1699.94,1407.17 1721,1412C1742.06,1416.83 1753.94,1389 1753.94,1389" style="fill:none;stroke:rgb(215,38,38);stroke-width:4.37px;"/>
+        <path d="M1685,1441C1685,1441 1688.66,1429.42 1719.47,1428C1750.28,1426.58 1765,1408.5 1765,1408.5" style="fill:none;stroke:rgb(38,38,38);stroke-width:4.37px;"/>
+        <g transform="matrix(1,0,0,1,-6,3.25)">
+            <path d="M1754.94,1381L1779,1408.5L1804,1389L1769,1363L1754.94,1381Z" style="fill:white;stroke:rgb(102,102,102);stroke-width:4.37px;"/>
+        </g>
+        <g transform="matrix(1,0,0,0.95806,-6.4685,63.1582)">
+            <rect x="1634" y="1339" width="51" height="333.807" style="fill:rgb(235,178,94);"/>
+        </g>
+        <g transform="matrix(1.04851,0,0,1.04851,511.953,832.302)">
+            <text x="724.42px" y="657.139px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:37.5px;fill:rgb(230,230,230);">Battery pack</text>
+        </g>
+    </g>
+    <g transform="matrix(0.996984,0,0,0.953732,0.400924,2057.9)">
+        <path d="M132.937,229.97L3374.94,229.97" style="fill:none;stroke:rgb(102,102,102);stroke-width:2.14px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-219)">
+        <text x="207.937px" y="2102.43px" style="font-family:'Helvetica';font-size:41.667px;fill:rgb(38,38,38);">The NOI unit consists of three parts: USER, CORE and KEYBOARD. KEYBOARD</text>
+        <text x="207.937px" y="2155.16px" style="font-family:'Helvetica';font-size:41.667px;fill:rgb(38,38,38);">part connects to the CORE using I2C, USER part connects to the core using 10-pin</text>
+        <text x="207.937px" y="2207.89px" style="font-family:'Helvetica';font-size:41.667px;fill:rgb(38,38,38);">header.</text>
+    </g>
+    <g transform="matrix(1,0,0,1,4.54747e-13,-205.835)">
+        <g>
+            <text x="2435.03px" y="1415.78px" style="font-family:'Helvetica';font-size:41.667px;fill:rgb(38,38,38);">inputs/outputs</text>
+            <text x="2308.89px" y="1525.11px" style="font-family:'Helvetica';font-size:41.667px;fill:rgb(38,38,38);">(3mm jack, usb power, etc.)</text>
+        </g>
+    </g>
+</svg>
